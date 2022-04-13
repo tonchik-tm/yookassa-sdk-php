@@ -1,5 +1,5 @@
 {
-  "name": "yoomoney/yookassa-sdk-php",
+  "name": "tonchik-tm/yookassa-sdk-php",
   "description": "This is a developer tool for integration with YooMoney.",
   "type": "library",
   "license": "MIT",
